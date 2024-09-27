@@ -1,0 +1,135 @@
+21:17:50.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:17:50.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:17:50.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:18:40.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\Grouping.xml"
+21:18:40.887 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Grouping.xml
+
+21:19:24.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\Grouping.xml"
+21:19:24.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Grouping.xml
+
+22:46:41.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+22:46:42.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml
+
+22:46:51.485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:51.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:51.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:52.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:52.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:52.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.184 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.316 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:53.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:53.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:53.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:43.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+22:50:44.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml
+
+22:50:48.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:48.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:48.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:49.562 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:49.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:49.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:49.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:49.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:49.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:49.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:49.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:49.781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:49.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:49.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:49.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:50.002 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:50.004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:50.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:50.067 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:50.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:50.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:50:50.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:50:50.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:50:50.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:09.782 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+09:57:10.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml
+
+09:57:12.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:12.202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:12.205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.242 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.372 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.375 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:57:13.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:57:13.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:57:13.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:05:47.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+10:05:48.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml
+
+12:07:11.451 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+12:07:20.552 [main] INFO  testCases.TC_01_Registration - ******* Starting TC_01_Registration ********
+12:07:20.725 [main] INFO  testCases.TC_01_Registration - ******** Click on My Account ********
+12:07:21.716 [main] INFO  testCases.TC_01_Registration - ******** Click on Register ********
+12:07:21.720 [main] INFO  testCases.TC_01_Registration - ******** Entering Customer details ********
+12:07:29.137 [main] INFO  testCases.TC_01_Registration - ******** Validating expected message ********
+12:07:29.250 [main] INFO  testCases.TC_01_Registration - ******** Finished TC_01_Registration **********
+12:07:34.402 [main] INFO  testCases.TC_02_LoginTest - ******Starting of TC_02_LoginTest ******
+12:07:40.203 [main] INFO  testCases.TC_02_LoginTest - ******Finished of TC_02_LoginTest ******
+19:15:56.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+19:16:06.442 [main] INFO  testCases.TC_01_Registration - ******* Starting TC_01_Registration ********
+19:16:06.624 [main] INFO  testCases.TC_01_Registration - ******** Click on My Account ********
+19:16:07.351 [main] INFO  testCases.TC_01_Registration - ******** Click on Register ********
+19:16:07.355 [main] INFO  testCases.TC_01_Registration - ******** Entering Customer details ********
+19:16:15.238 [main] INFO  testCases.TC_01_Registration - ******** Validating expected message ********
+19:16:15.306 [main] INFO  testCases.TC_01_Registration - ******** Finished TC_01_Registration **********
+19:16:22.315 [main] INFO  testCases.TC_02_LoginTest - ******Starting of TC_02_LoginTest ******
+19:16:28.871 [main] INFO  testCases.TC_02_LoginTest - ******Finished of TC_02_LoginTest ******
+20:36:56.792 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+20:37:08.676 [main] INFO  testCases.TC_01_Registration - ******* Starting TC_01_Registration ********
+20:37:08.879 [main] INFO  testCases.TC_01_Registration - ******** Click on My Account ********
+20:37:10.724 [main] INFO  testCases.TC_01_Registration - ******** Click on Register ********
+20:37:10.742 [main] INFO  testCases.TC_01_Registration - ******** Entering Customer details ********
+20:37:18.700 [main] INFO  testCases.TC_01_Registration - ******** Validating expected message ********
+20:37:18.819 [main] INFO  testCases.TC_01_Registration - ******** Finished TC_01_Registration **********
+20:37:25.405 [main] INFO  testCases.TC_02_LoginTest - ******Starting of TC_02_LoginTest ******
+20:37:31.791 [main] INFO  testCases.TC_02_LoginTest - ******Finished of TC_02_LoginTest ******
+20:44:45.531 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Omkar\eclipse-workspace\OpencartProject\testng.xml"
+20:44:53.452 [main] INFO  testCases.TC_01_Registration - ******* Starting TC_01_Registration ********
+20:44:53.637 [main] INFO  testCases.TC_01_Registration - ******** Click on My Account ********
+20:44:55.432 [main] INFO  testCases.TC_01_Registration - ******** Click on Register ********
+20:44:55.437 [main] INFO  testCases.TC_01_Registration - ******** Entering Customer details ********
+20:45:04.756 [main] INFO  testCases.TC_01_Registration - ******** Validating expected message ********
+20:45:04.876 [main] INFO  testCases.TC_01_Registration - ******** Finished TC_01_Registration **********
+20:45:09.826 [main] INFO  testCases.TC_02_LoginTest - ******Starting of TC_02_LoginTest ******
+20:45:15.912 [main] INFO  testCases.TC_02_LoginTest - ******Finished of TC_02_LoginTest ******
