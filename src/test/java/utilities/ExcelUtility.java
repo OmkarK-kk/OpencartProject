@@ -65,7 +65,8 @@ public class ExcelUtility {
 		DataFormatter formatter = new DataFormatter();
 		String data;
 		
-		try {
+		try
+		{
 			data = formatter.formatCellValue(cell); //returns formatted cell value as string 
 		}
 		catch(Exception e)
@@ -74,8 +75,7 @@ public class ExcelUtility {
 		}
 		workbook.close();
 		fi.close();
-		return data;
-		
+		return data;	
 	}
 	
 	public void setCellData(String sheetName, int rownum, int colnum, String data) throws IOException
@@ -84,8 +84,8 @@ public class ExcelUtility {
 		
 		if(!xlFile.exists())  //If file not exists then create new file
 		{
-			workbook = new XSSFWorkbook();
 			fo= new FileOutputStream(path);
+			workbook = new XSSFWorkbook();
 			workbook.write(fo);
 		}
 		

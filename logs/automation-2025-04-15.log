@@ -1,0 +1,58 @@
+19:18:17.550 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:18:20.582 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:18:23.530 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:18:26.861 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:18:26.867 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:32:58.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+19:33:07.420 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:33:10.508 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:33:10.526 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:33:13.837 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:33:16.722 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:33:19.821 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:33:19.826 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:34:04.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+19:34:12.432 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:34:15.353 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:34:15.369 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:34:18.005 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:34:21.968 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:34:22.868 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:35:02.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+19:35:10.688 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:35:14.184 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:35:14.206 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:35:25.515 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:35:25.524 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:35:37.538 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:35:37.548 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+19:35:40.784 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+19:35:40.839 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+22:59:47.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:00:56.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:02:28.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testngMaster.xml
+
+23:02:45.511 [TestNG-tests-3] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+23:02:45.922 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on My Account link
+23:02:50.073 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on Register link
+23:02:50.081 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Providing customer details
+23:02:50.455 [TestNG-tests-1] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+23:02:50.799 [TestNG-tests-1] INFO  testCases.TC_01_Registration - Clicked on My Account link
+23:02:51.689 [TestNG-tests-1] INFO  testCases.TC_01_Registration - Clicked on Register link
+23:02:51.691 [TestNG-tests-1] INFO  testCases.TC_01_Registration - Providing customer details
+23:02:53.223 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Validating expected message!!
+23:02:53.313 [TestNG-tests-3] ERROR testCases.TC_01_Registration - Test failed..
+23:02:57.130 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+23:02:58.931 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on My Account link
+23:03:00.634 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on Register link

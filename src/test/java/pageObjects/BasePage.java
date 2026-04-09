@@ -5,6 +5,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class BasePage {
 	
+	//Create object of webdriver
 	public WebDriver driver;
 	
 	public BasePage(WebDriver driver)

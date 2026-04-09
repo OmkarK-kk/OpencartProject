@@ -1,0 +1,73 @@
+23:03:00.635 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Providing customer details
+23:03:02.800 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Validating expected message!!
+23:03:03.583 [TestNG-tests-2] ERROR testCases.TC_01_Registration - Test failed..
+23:03:25.731 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:07:18.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:07:27.576 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+23:07:31.653 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+23:07:31.667 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+23:07:43.589 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+23:07:43.597 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+23:07:55.705 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Finished of TC_04_LoginDataDrivenTest****
+23:07:55.712 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+23:08:02.305 [main] INFO  testCases.TC_04_LoginDataDrivenTest - ****Staring of TC_04_LoginDataDrivenTest****
+23:10:47.001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:10:54.153 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:10:54.360 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:10:56.544 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:10:56.549 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:11:40.547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:11:49.098 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:11:49.376 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:11:50.601 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:11:50.607 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:12:38.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:12:51.664 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:12:51.923 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:12:53.563 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:12:58.569 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:16:18.879 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:16:26.958 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:16:27.234 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:16:28.347 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:16:33.362 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:17:51.872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:18:05.240 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:18:05.478 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:18:08.343 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:18:13.349 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:29:09.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:29:17.390 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:29:17.626 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:29:18.870 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:29:23.887 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:32:00.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:32:09.166 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:32:09.415 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:32:10.647 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:32:15.665 [main] INFO  testCases.Reg_DDT - Providing customer details
+23:34:29.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\Mastertestng.xml
+
+23:34:36.784 [main] INFO  testCases.Reg_DDT - ****Starting of TC_01_Registration****
+23:34:36.992 [main] INFO  testCases.Reg_DDT - Clicked on My Account link
+23:34:38.232 [main] INFO  testCases.Reg_DDT - Clicked on Register link
+23:34:43.246 [main] INFO  testCases.Reg_DDT - Providing customer details

@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 
 public class RegistrationPage extends BasePage {
 	
-	
 	//Constructor
 	public RegistrationPage(WebDriver driver)
 	{

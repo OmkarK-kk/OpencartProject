@@ -16,62 +16,55 @@ import testBase.BaseClass;
 
 public class TC_01_Registration extends BaseClass {
 
-	@Test(groups={"Sanity","Master"})
-	public void Verify_registration() throws InterruptedException
+	@Test
+	public void verify_AccountRegistration()
 	{
-		logger.info("******* Starting TC_01_Registration ********");
+		logger.info("****Starting of TC_01_Registration****");
+		
 		
 		try
 		{
-		Homepage hm = new Homepage(driver);
-		hm.ClickMyAccount();
-		logger.info("******** Click on My Account ********");
+		Homepage hp = new Homepage(driver);
+		hp.ClickMyAccount();
+		logger.info("Clicked on My Account link");
 		
-		hm.ClickOnRegister();
-		logger.info("******** Click on Register ********");
+		hp.ClickOnRegister();
+		logger.info("Clicked on Register link");
 		
-		RegistrationPage rp = new RegistrationPage(driver);
+		RegistrationPage reg = new RegistrationPage(driver);
 		
-		logger.info("******** Entering Customer details ********");
+		logger.info("Providing customer details");
 		
-		rp.setFirstName(RandomInString());
-		rp.setLastName(RandomInString());
-		rp.setEmail(RandomInString() + "@gmail.com");
-		rp.setTelephone(RandomNumber());
+		reg.setFirstName("omkar");
+		reg.setLastName("OKOK");
+		reg.setEmail("okok9160@gmail.com");
+		reg.setTelephone("761899199");
+		reg.setPassword("Okok@819");
+		reg.setConfPass("Okok@819");
+		reg.ClickRadioSubscribe();
+		reg.ClickOnAgree();
+		reg.ClickOnContinue();
 		
-		String password = RandomAlphanumeric(); 
-		rp.setPassword(password);
-		rp.setConfPass(password);
+		logger.info("Validating expected message!!");
+		String cfmMsg = reg.getSuccMessage();
 		
-		Thread.sleep(5000);
-		
-		rp.ClickRadioSubscribe();
-		rp.ClickOnAgree();
-		rp.ClickOnContinue();
-		
-		logger.info("******** Validating expected message ********");
-		String cfmsg = rp.getSuccMessage();
-		
-		if(cfmsg.equals("Your Account Has Been Created!"))
+		if(cfmMsg.equals("Your Account Has Been Created!"))
 		{
 			Assert.assertTrue(true);
 		}
 		else
 		{
-			logger.error("Test failed");
-			logger.debug("Debug logs....");
+			logger.error("Test failed..");
+			logger.debug("Debug logs..");
 			Assert.assertTrue(false);
 		}
-		
-	}
+		}
 		catch(Exception e)
 		{
 			Assert.fail();
 		}
 		
-		logger.info("******** Finished TC_01_Registration **********");
+		logger.info("****Finished TC_01_Registration****");
+		
 	}
-	
-	
-	
 }

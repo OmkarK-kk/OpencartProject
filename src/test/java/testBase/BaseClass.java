@@ -24,119 +24,65 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
 	
 	public static WebDriver driver;
-	public Logger logger;   //Log4j
+	public Logger logger;
 	public Properties pr;
 	
-	@BeforeClass(groups= {"Sanity","Regression","Master"})
+	@BeforeClass
 	@Parameters({"os","browser"})
-	public void setup( String os, String br) throws IOException
+	public void setUp(String os, String br) throws IOException
 	{
-		//Loading config.properties file
+		logger = LogManager.getLogger(this.getClass());
+		
 		FileReader file = new FileReader("./src//test//resources//config.properties");
 		pr = new Properties();
 		pr.load(file);
 		
-		logger = LogManager.getLogger(this.getClass());  //Log4j
-		
-		if(pr.getProperty("execution_env").equalsIgnoreCase("remote"))
+		switch(br.toLowerCase())
 		{
-			DesiredCapabilities capabilities = new DesiredCapabilities();
-			
-			//os
-			if(os.equalsIgnoreCase("windows"))
-			{
-				capabilities.setPlatform(Platform.WIN10);
-			}
-			else if(os.equalsIgnoreCase("mac"))
-			{
-				capabilities.setPlatform(Platform.MAC);
-			}
-			else
-			{
-				System.out.println("No matching os");
-				return;
-			}
-			
-			//browser
-			switch(br.toLowerCase())
-			{
-			case "chrome" : capabilities.setBrowserName("chrome");
-			break;
-			case "edge" : capabilities.setBrowserName("MicrosoftEdge");
-			break;
-			default : System.out.println("No matching browser");
-			return;
-			}
-			
-			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
-		}
-		
-		if(pr.getProperty("execution_env").equalsIgnoreCase("local"))
-		{
-			switch(br.toLowerCase())
-			{
-			 case "chrome" : driver = new ChromeDriver();
-			 break; 
-			 case "edge" : driver = new EdgeDriver();
-			 break; 
-			 case "firefox" : driver = new FirefoxDriver(); 
-			 break; 
-			 default : System.out.println("Invalid browser selection..."); 
-			 return; 
-			 }
+		case "chrome": driver= new ChromeDriver();
+		break;
+		case "edge": driver = new EdgeDriver();
+		break;
+		case "firefox": driver = new FirefoxDriver();
+		break;
+		default : System.out.println("Invalid browser selection..");
+		return;
 		}
 		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.get(pr.getProperty("appURL"));
+		//driver.get("https://tutorialsninja.com/demo/index.php");
+		driver.get(pr.getProperty("appURL")); //Reading value from properties file
+		
 	}
 	
-	@AfterClass(groups= {"Sanity","Regression","Master"})
+	@AfterClass
 	public void tearDown()
 	{
-		driver.close();
+		driver.quit();
 	}
 	
-	public String RandomInString()
-	{
-		String getRandomString = RandomStringUtils.randomAlphabetic(5);
-		return getRandomString;
-	}
-	
-	public String RandomNumber()
-	{
-		String getRandomNum = RandomStringUtils.randomNumeric(5);
-		return getRandomNum;
-	}
-	
-	public String RandomAlphanumeric()
-	{
-		String getRandomString = RandomStringUtils.randomAlphabetic(8);
-		String getRandomNum = RandomStringUtils.randomNumeric(7);
-		return(getRandomString + "@"+ getRandomNum);
-	}
-	
+	@AfterMethod
 	public String captureScreen(String tname) throws IOException
 	{
-		String timestamp = new SimpleDateFormat("yyyymmddhhmmss").format(new Date());
+		String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		
-		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
-		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
+		TakesScreenshot Screenshot = (TakesScreenshot) driver;
+		File sourceFile = Screenshot.getScreenshotAs(OutputType.FILE);
 		
-		String targetFilePath = System.getProperty("user.dir")+ "\\screenshots\\" + tname + "_"+ timestamp;
+		String targetFilePath = System.getProperty("user.dir")+"/screenshots/"+ tname + "_" + timestamp + ".png";
 		File targetFile = new File(targetFilePath);
 		
 		sourceFile.renameTo(targetFile);
-		
 		return targetFilePath;
 	}
-
 	
 }

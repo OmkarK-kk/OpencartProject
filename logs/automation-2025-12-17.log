@@ -1,0 +1,59 @@
+22:46:34.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testngMaster.xml
+
+22:46:53.424 [TestNG-tests-3] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:46:53.889 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:46:56.591 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:46:56.598 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Providing customer details
+22:46:58.935 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:46:59.054 [TestNG-tests-3] ERROR testCases.TC_01_Registration - Test failed..
+22:47:30.045 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:47:30.227 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:47:31.078 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:47:31.082 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Providing customer details
+22:47:32.344 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:47:32.474 [TestNG-tests-2] ERROR testCases.TC_01_Registration - Test failed..
+22:49:28.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testngMaster.xml
+
+22:49:39.781 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:49:41.817 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:49:43.262 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:49:43.276 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Providing customer details
+22:49:46.262 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:49:46.347 [TestNG-tests-2] ERROR testCases.TC_01_Registration - Test failed..
+22:49:51.720 [TestNG-tests-3] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:49:52.108 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:49:53.225 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:49:53.226 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Providing customer details
+22:49:54.949 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:49:55.043 [TestNG-tests-3] ERROR testCases.TC_01_Registration - Test failed..
+22:52:16.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testngMaster.xml
+
+22:52:27.861 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:52:29.046 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:52:31.119 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:52:31.125 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Providing customer details
+22:52:38.713 [TestNG-tests-3] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+22:52:39.022 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on My Account link
+22:52:40.552 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on Register link
+22:52:40.554 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Providing customer details
+22:52:42.208 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:52:42.780 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Finished TC_01_Registration****
+22:52:43.207 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Validating expected message!!
+22:52:46.868 [TestNG-tests-3] ERROR testCases.TC_01_Registration - Test failed..
+09:46:49.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Omkar\eclipse-workspace\OpencartProject\testngMaster.xml
+
+09:47:06.094 [TestNG-tests-2] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+09:47:12.326 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on My Account link
+09:47:13.424 [TestNG-tests-3] INFO  testCases.TC_01_Registration - ****Starting of TC_01_Registration****
+09:47:13.754 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on My Account link
+09:47:14.476 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Clicked on Register link
+09:47:14.488 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Providing customer details
+09:47:15.322 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Clicked on Register link
+09:47:15.323 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Providing customer details
+09:47:16.370 [TestNG-tests-3] INFO  testCases.TC_01_Registration - Validating expected message!!
+09:47:16.447 [TestNG-tests-3] ERROR testCases.TC_01_Registration - Test failed..
+09:47:17.088 [TestNG-tests-2] INFO  testCases.TC_01_Registration - Validating expected message!!

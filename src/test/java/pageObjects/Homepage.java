@@ -12,7 +12,6 @@ public class Homepage extends BasePage {
 		super(driver);
 	}
 	
-	
 	//Locators
 	@FindBy(xpath="(//span[@class='hidden-xs hidden-sm hidden-md'])[3]")
 	WebElement lnkMyAccount;
@@ -23,6 +22,7 @@ public class Homepage extends BasePage {
 	@FindBy(xpath= "//a[@href='https://tutorialsninja.com/demo/index.php?route=account/login']")
 	WebElement lnkLogin;
 	
+	//Action methods
 	
 	public void ClickMyAccount()
 	{

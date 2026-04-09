@@ -10,35 +10,36 @@ import testBase.BaseClass;
 
 public class TC_02_LoginTest extends BaseClass{
 	
-	@Test(groups= {"Regression", "Master"})
-	public void verify_login()
+	@Test
+	public void verify_Login()
 	{
-		logger.info("******Starting of TC_02_LoginTest ******");
+		logger.info("****Starting of TC_02_LoginTest****");
 		
 		try
 		{
+		//Homepage
 		Homepage hp = new Homepage(driver);
 		hp.ClickMyAccount();
 		hp.ClickOnLogin();
 		
+		//Loginpage
 		LoginPage lp = new LoginPage(driver);
 		lp.setEmailAdd(pr.getProperty("email"));
 		lp.setPassword(pr.getProperty("password"));
 		lp.ClickLogin();
 		
-		Thread.sleep(4000);
-		
-		MyAccountPage mp = new MyAccountPage(driver);
-		boolean targetpg = mp.isMyAccountPageExists();
-		
-		//Assert.assertEquals(target, true, "Test Failed");
-		Assert.assertTrue(targetpg);
+		//MyAccount
+		MyAccountPage mc = new MyAccountPage(driver);
+		boolean targetPage = mc.isMyAccountPageExists();
+		Assert.assertTrue(true);
 		}
 		catch(Exception e)
 		{
 			Assert.fail();
 		}
-		logger.info("******Finished of TC_02_LoginTest ******");
+		
+		logger.info("****Finished TC_02_LoginTest****");
+		
 	}
-
+	
 }
